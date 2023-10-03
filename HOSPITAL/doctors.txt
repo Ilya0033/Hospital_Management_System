@@ -1,0 +1,13 @@
+Samuel Aldridge 30 Pediatrics 8:00-17:00 22000$ +14531738477
+Jack Adamson 25 Pediatrics 8:00-17:00 22000$ +14538334278
+Harry Wilson 41 Neurology 8:00-17:00 22000$ +14533268338
+Joseph Ellington 26 Oncologist 8:00-17:00 22000$ +14533871397
+Alfie Brown 24 Pediatrics 8:00-17:00 22000$ +14539868576
+Thomas Lewis 36 Dermatology 6:00-15:00 22000$ +14539086546
+Jacob Johnson 33 Pediatrics 8:00-17:00 22000$ +14539823421
+William Garcia 39 Neurology 10:00-19:00 22000$ +14539865434
+James Miller 44 Cardiologist 8:00-17:00 26000$ +14533463132
+Emily King 28 Ophthalmology 8:00-17:00 22000$ +14537483629
+Charlotte Walker 28 Ophthalmology 8:00-17:00 19000$ +14539473859
+Isabella Clark 42 Neurology 8:00-17:00 22000$ +14539847364
+Sofia Thompson 31 Endocrinology 8:00-17:00 21000$ +14533754824
